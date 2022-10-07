@@ -1,0 +1,18 @@
+body{
+    background-color:black ;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif ;
+    background:rgb(29, 29, 165) ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color:black ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size:smaller ;
+    background:greenyellow ;
+    }
